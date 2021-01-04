@@ -1,0 +1,60 @@
+div #fontx {
+    font-size: 3.0rem !important;
+}
+
+.fontp {
+    font-size: 1.5rem !important;
+}
+
+
+div li {
+    list-style: none;
+}
+
+
+.container-post {
+    padding: 20px 0 0 0;
+}
+
+.login-div {
+    max-width: 430px;
+    padding: 35px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+}
+
+.signup-div {
+    max-width: 550px;
+    padding: 35px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+}
+
+.contact-div {
+    max-width: 550px;
+    padding: 35px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+}
+
+.section {
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+
+.table-size {
+    max-width: 355px;
+    padding: 5px 0;
+    
+}
+
+.table-detail-label {
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 670px){
+    header {
+        min-height: 100px;
+    }
+}
